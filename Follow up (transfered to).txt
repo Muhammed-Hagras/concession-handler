@@ -1,0 +1,84 @@
+TTS
+Version: 2.0
+10.12.247.20
+Log OffContact UsHomeWelcome: xcc.mohamed.elsheikh (86016)
+Quick LaunchHomeItemsSearchAdministrationReports
+
+OneOrZero Help Desk
+Item Options
+My Group Items
+My assign Items
+Filter Comments By :   
+Please Select
+ 
+
+19-10-2024, 01:43 PM Group Of (-)
+Ticket Created: BSSUser
+19-10-2024, 01:43 PM BSSUser Group Of (-)
+Transfered: IU Maintenance
+19-10-2024, 01:43 PM BSSUser Group Of (-)
+Status Changed: Open
+19-10-2024, 01:43 PM BSSUser Group Of (-)
+Transfered: support_pool
+19-10-2024, 01:43 PM BSSUser Group Of (-)
+Ticket Info: Ticket Title is Physical Instability
+19-10-2024, 01:43 PM admin Group Of (-)
+Ticket Info: IU SLA is 2 Days
+19-10-2024, 01:43 PM admin Group Of (-)
+Ticket Info: New CPE: Huawei DG8045, Version: 1.0
+19-10-2024, 01:43 PM FCC Group Of (-)
+Ticket Info: Ticket has created successfully on FCC with ID 22364560716
+19-10-2024, 01:43 PM FCC Group Of (-)
+Status Changed: Pending FCC
+19-10-2024, 01:43 PM BSSUser Group Of (-)
+Ticket Info: IBS.Sara.334049(MCU Call Center)
+19-10-2024, 02:32 PM admin Group Of (-)
+Status Changed: In Progress
+19-10-2024, 02:32 PM admin Group Of (-)
+Transfered: CC-Follow up
+19-10-2024, 02:32 PM admin Group Of (-)
+Ticket Info: Close Code (2):Line stable /no problem found
+19-10-2024, 02:32 PM admin Group Of (-)
+Ticket Info: FCC return Ticket after close it on FCC
+19-10-2024, 03:01 PM bassem.ellabban Group Of (IU Maintenance, CC Second Level Support, CC-Follow up, CC-Reapers, customer 360, Second Level Advanced, Pilot-SLS, Pilot-Follow UP, SLS-IVR Automation, SLS-Archive, SLS-FTTH)
+Status Changed: Waiting for Research
+19-10-2024, 03:55 PM kareem.reda Group Of (SSP- Supporter Group, Second Level Advanced, Pilot-SLS, Pilot-Follow UP, Digital Data Chat, SLS-FTTH)
+Transfered: Digital Data Chat
+19-10-2024, 03:55 PM kareem.reda Group Of (SSP- Supporter Group, Second Level Advanced, Pilot-SLS, Pilot-Follow UP, Digital Data Chat, SLS-FTTH)
+Ticket Info: Ticket is business? Yes
+19-10-2024, 03:55 PM kareem.reda Group Of (SSP- Supporter Group, Second Level Advanced, Pilot-SLS, Pilot-Follow UP, Digital Data Chat, SLS-FTTH)
+Ticket Info: Ticket On Call? NO
+19-10-2024, 03:55 PM kareem.reda Group Of (SSP- Supporter Group, Second Level Advanced, Pilot-SLS, Pilot-Follow UP, Digital Data Chat, SLS-FTTH)
+Ticket Info: Ticket Called Customer? No answer
+19-10-2024, 03:55 PM kareem.reda Group Of (SSP- Supporter Group, Second Level Advanced, Pilot-SLS, Pilot-Follow UP, Digital Data Chat, SLS-FTTH)
+Ticket Info: Customer Type has changed from Individual To Consumer
+19-10-2024, 03:55 PM kareem.reda Group Of (SSP- Supporter Group, Second Level Advanced, Pilot-SLS, Pilot-Follow UP, Digital Data Chat, SLS-FTTH)
+Ticket Info: New Ticket Source: Telephone
+19-10-2024, 03:55 PM kareem.reda Group Of (SSP- Supporter Group, Second Level Advanced, Pilot-SLS, Pilot-Follow UP, Digital Data Chat, SLS-FTTH)
+Ticket Info: Ticket DSAT? Yes
+19-10-2024, 03:55 PM FCC Group Of (-)
+Ticket Info: Ticket has closed successfully on FCC
+19-10-2024, 03:56 PM ibs.sara.160925 Group Of (Digital Data Chat)
+Transfered: IU Maintenance
+19-10-2024, 03:56 PM ibs.sara.160925 Group Of (Digital Data Chat)
+Status Changed: Open
+19-10-2024, 03:56 PM ibs.sara.160925 Group Of (Digital Data Chat)
+Ticket Info: cst name: mona Customer Name: mona, CPE : Huawei DG8045, pop outage checked, Check TTS History before starting troubleshooting, whatever the ticket open or closed : No ticket, Check FBB Account Status on BSS : Active, Line Status : Enabled, Is The Line TDM ?, Yes, Is the line Blocked : Not Blocked, Check customer subscription : Normal customer / Indigo /We Mix, Check if customer has Voice Overlapping : No, Unstable but currently ADSL Down, Query NST For The Past 12 Hours, Is there 3 logs exist during last 12 hours with minimum 1 log during last 3 hours : Yes, Check if there is major fault in ADF : major fault not found, Line provisioned by Assia : yes, Clear View Result After Search : No DSL Physical Layer is detected / Other, Last fix Date checked : Last fix from more than 7 days ago / No fix, Clear View output : Technician Dispatch Is Recommended, connection type Checked : Main Wire, Check if Line connected from main wire (without splitter and phone set) : No, Connect from main, Run Recent Fix Procedure In Clear View : Technician Dispatch Is Recommended, Faults Exist, the connection still unstable
+19-10-2024, 03:56 PM FCC Group Of (-)
+Ticket Info: Ticket has reopened successfully on FCC
+19-10-2024, 03:56 PM FCC Group Of (-)
+Status Changed: Pending FCC
+20-10-2024, 02:30 PM ibs.mina.302012 Group Of (IU Maintenance, Maintenance Visits, CC-Follow up, Pending Fixing TE - IU)
+Transfered: CC-Follow up
+20-10-2024, 02:30 PM ibs.mina.302012 Group Of (IU Maintenance, Maintenance Visits, CC-Follow up, Pending Fixing TE - IU)
+Ticket Info: /Attainable speed: 19348/1086// روتر العميل Cst cpe No immediate action is needed.Dispatch Score 0//
+20-10-2024, 02:30 PM FCC Group Of (-)
+Ticket Info: Ticket has closed successfully on FCC
+20-10-2024, 02:58 PM ahmed.e.abdallah Group Of (IU Maintenance, CC Second Level Support, CC-Follow up, CC-Reapers, customer 360, Second Level Advanced, Pilot-SLS, Pilot-Follow UP, SLS-IVR Automation, SLS-Archive, SLS-FTTH)
+Status Changed: In Progress
+20-10-2024, 03:06 PM ahmed.e.abdallah Group Of (IU Maintenance, CC Second Level Support, CC-Follow up, CC-Reapers, customer 360, Second Level Advanced, Pilot-SLS, Pilot-Follow UP, SLS-IVR Automation, SLS-Archive, SLS-FTTH)
+Status Changed: Waiting for Research
+20-10-2024, 09:13 PM ibs.mariem.317995 Group Of (MCU Call Center, CC-Xceed Technical)
+Ticket Info: Delayed tickets, View record [Ireport ID:66677927]
+©Telecomegypt OSS Team 2016
+Page rendered in 0.2821 seconds

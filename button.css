@@ -1,0 +1,154 @@
+*{
+    font-family:cursive !important
+}
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    min-height: 100vh;
+    margin: 0;
+    transition: background 0.2s linear;
+}
+
+body.dark {
+    background-color: #292c35;
+}
+
+body.dark h1,
+body.dark .support a {
+    color: #fff;
+}
+
+.checkbox {
+    opacity: 0;
+    position: absolute;
+}
+
+body.dark-mode .checkbox-label {
+    background: linear-gradient(135deg, #4A5568, #5D3A71);
+}
+
+.checkbox-label {
+    background: linear-gradient(135deg, #6a6cb0, #d966c7, #c8b1da);
+    width: 60px;
+    height: 35px;
+    border-radius: 50px;
+    position: relative;
+    padding: 5px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.moon-icon {
+    color: #f1c40f;
+}
+
+.sun-icon {
+    color: #f39c12;
+}
+
+.checkbox-label .ball {
+    background-color: #fff;
+    width: 22px;
+    height: 22px;
+    position: absolute;
+    left: 2px;
+    top: 1px;
+    border-radius: 50%;
+    transition: transform 0.2s linear;
+}
+
+.checkbox:checked+.checkbox-label .ball {
+    transform: translateX(24px);
+}
+
+/* Support me if you like it */
+.support {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+
+.support a {
+    color: #292c35;
+    font-size: 32px;
+    backface-visibility: hidden;
+    display: inline-block;
+    transition: transform 0.2s ease;
+}
+
+.support a:hover {
+    transform: scale(1.1);
+}
+
+.dark-mode-button {
+    position: absolute;
+    z-index: 9;
+    top: 1rem;
+    left: 17px;
+}
+.usage-calculate-button{
+    z-index: 9;
+    cursor: pointer;
+    position: fixed;
+    top: 0;
+    right: 24px;
+
+}
+.usage-calculate-button img {
+    max-width: 32px;
+}
+.usage-calculate-button p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.usage-calculate-button input#input {
+    position: absolute;
+    cursor: pointer;
+    top: 55px;
+    left: 0;
+    top: 41px;
+    height: 33%;
+    opacity: 0;
+}
+.usage-calculate-button:hover{
+    transform: scale(1.1);
+    transition: all ease-in-out .2s;
+
+}
+button{
+    position: relative;
+    z-index: 99;
+}
+
+button#close-sheet {
+    background: linear-gradient(135deg, #6a6cb0, #d966c7, #c8b1da);
+    position: fixed;
+    z-index: 99;
+    top: 4px;
+    left: 91px;
+    padding: 1rem;
+    color: white;
+    font-size: 1.5rem;
+}
+
+
+body.dark-mode button#close-sheet {
+    background: linear-gradient(135deg, #4A5568, #5D3A71);
+
+}
+#Sr-on-spot{
+    text-decoration: underline !important;
+    cursor: pointer;
+}

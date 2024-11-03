@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p#output {
+            background: #a113a1;
+            color: white;
+            max-width: 20rem;
+            padding: 2rem;
+            color: white;
+            font-weight: bold;
+            text-align: center;
+            font-family: sans-serif;
+            font-size: 16px;
+            cursor: pointer;
+            margin: auto;
+        }
+
+        p#output:hover {
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+
+<body>
+    <p id="output"></p>
+
+    <script>
+        // Retrieve the value stored under the key 'action' from local storage
+        const storedText = localStorage.getItem('systemAction');
+
+        // Check if there is any text stored under 'action'
+        if (storedText) {
+            // Set the retrieved text as the content of the <p> element
+            document.getElementById('output').textContent = storedText;
+        } else {
+            // Handle the case where no text is found for the key
+            document.getElementById('output').textContent = 'No action stored.';
+        }
+    </script>
+</body>
+
+</html>
